@@ -2,8 +2,7 @@
  * AP Computer Science									Name ___________________________
  * ArrayList Review/Self-Quiz
  * 
- * Read this code and ten
- *
+ * Read this code and predict the output. Then run the program to check your predictions.
  */
  
 import java.util.ArrayList;
