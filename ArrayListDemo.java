@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class ArrayListDemo
 {
-    public static void main(String[] twelve)
+    public static void main(String[] didYouKnowYouCanTypeAnythingHere)
     {
         ArrayList<String> fruit = new ArrayList<String>();
         
